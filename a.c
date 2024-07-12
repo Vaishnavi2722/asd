@@ -4,7 +4,7 @@
 #include<string.h>
  
 //Global Variables
-int z = 0, i = 0, j = 0, c = 0;
+int z = 0, i = 0, j = 0, c = 0
  
 // Modify array size to increase 
 // length of string to be parsed
